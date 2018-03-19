@@ -9,10 +9,10 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <jsp:include page="Header.jsp" />
+        <jsp:include page="Main/Header.jsp" />
         
-        <jsp:include page="Carousel.jsp" />
-        <jsp:include page="GridActivities.jsp" />
+        <jsp:include page="Main/Carousel.jsp" />
+        <jsp:include page="Main/GridActivities.jsp" />
     
       <br>
       <h1 id="horario" class="text-center">Horario</h1>
@@ -30,6 +30,6 @@
       <c:import url = "http://localhost:8080/PlayFitHeroku/Main/StyleXSLCuotas.xsl" var = "xslt"/>
       <x:transform xml = "${xmltext}" xslt = "${xslt}"/>
       
-      <jsp:include page="Footer.jsp" />
+      <jsp:include page="Main/Footer.jsp" />
     </body>
 </html>

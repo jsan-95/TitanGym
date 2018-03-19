@@ -19,7 +19,7 @@
         
         <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <!-- Brand -->
-        <a class="navbar-brand" href="/PlayFitHeroku/Main/Index.jsp">PLAYFIT</a>
+        <a class="navbar-brand" href="/PlayFitHeroku/index.jsp">PLAYFIT</a>
         <%  if (session.getAttribute("username") == null) {%>
         <div class="collapse navbar-collapse justify-content-end" id="nav-content">   
             <ul class="navbar-nav">
