@@ -1,0 +1,38 @@
+
+.image {
+  opacity: 1;
+  transition: .5s ease;
+  
+}
+.img {
+    position: relative;
+    width: 100%;
+    max-height: 400px;
+}
+
+.image:hover {
+  opacity: 0.3;
+  cursor: pointer;
+  border: 2px solid white;
+  border-radius: 25px;
+}
+
+.carousel-caption {
+    position: absolute;
+    text-align: left;
+    top: 0;
+    bottom: auto;
+    
+}
+
+.row.vdivide [class*='col-']:not(:last-child):after {
+  background: #e0e0e0;
+  width: 1px;
+  content: "";
+  display:block;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  right: 0;
+  min-height: 70px;
+}

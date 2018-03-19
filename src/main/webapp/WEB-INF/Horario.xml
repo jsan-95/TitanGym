@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<horarios>
+    <horario>
+        <hora>09:00</hora>
+        <lunes>Crossfit</lunes>
+        <martes> </martes>
+        <miercoles>Crossfit</miercoles>
+        <jueves> </jueves>
+        <viernes> </viernes>
+    </horario>
+
+    <horario>
+        <hora>10:00</hora>
+        <lunes>Natacion</lunes>
+        <martes>Natacion</martes>
+        <miercoles>Natacion</miercoles>
+        <jueves>Natacion</jueves>
+        <viernes>Natacion</viernes>
+    </horario>
+
+    <horario>
+        <hora>11:00</hora>
+        <lunes>Cycling</lunes>
+        <martes>Pilates</martes>
+        <miercoles>Cycling</miercoles>
+        <jueves>Pilates</jueves>
+        <viernes>Natacion</viernes>
+    </horario>
+
+    <horario>
+        <hora>12:00</hora>
+        <lunes>Natacion</lunes>
+        <martes>Natacion</martes>
+        <miercoles>Natacion</miercoles>
+        <jueves>Natacion</jueves>
+        <viernes>Natacion</viernes>
+    </horario>
+
+    <horario>
+        <hora>13:00</hora>
+        <lunes> </lunes>
+        <martes> </martes>
+        <miercoles> </miercoles>
+        <jueves> </jueves>
+        <viernes> </viernes>
+    </horario>
+
+    <horario>
+        <hora>14:00</hora>
+        <lunes> </lunes>
+        <martes> </martes>
+        <miercoles> </miercoles>
+        <jueves> </jueves>
+        <viernes> </viernes>
+    </horario>
+
+    <horario>
+        <hora>15:00</hora>
+        <lunes> </lunes>
+        <martes> </martes>
+        <miercoles> </miercoles>
+        <jueves> </jueves>
+        <viernes> </viernes>
+    </horario>
+
+    <horario>
+        <hora>16:00</hora>
+        <lunes>Natacion</lunes>
+        <martes>Natacion</martes>
+        <miercoles>Natacion</miercoles>
+        <jueves>Natacion</jueves>
+        <viernes>Natacion</viernes>
+    </horario>
+
+    <horario>
+        <hora>17:00</hora>
+        <lunes>Cycling</lunes>
+        <martes>Zumba</martes>
+        <miercoles>Cycling</miercoles>
+        <jueves>Zumba</jueves>
+        <viernes>Cycling</viernes>
+    </horario>
+
+    <horario>
+        <hora>18:00</hora>
+        <lunes>Step</lunes>
+        <martes>Pilates</martes>
+        <miercoles>Pilates</miercoles>
+        <jueves>Step</jueves>
+        <viernes>Zumba</viernes>
+    </horario>
+
+    <horario>
+        <hora>19:00</hora>
+        <lunes>Crossfit</lunes>
+        <martes>Crossfit</martes>
+        <miercoles>Crossfit</miercoles>
+        <jueves>Crossfit</jueves>
+        <viernes>Crossfit</viernes>
+    </horario>
+
+    <horario>
+        <hora>20:00</hora>
+        <lunes>Crossfit</lunes>
+        <martes>Crossfit</martes>
+        <miercoles>Crossfit</miercoles>
+        <jueves>Crossfit</jueves>
+        <viernes> </viernes>
+    </horario>
+</horarios>
+
+

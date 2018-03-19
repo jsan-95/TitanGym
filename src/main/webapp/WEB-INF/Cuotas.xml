@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<cuotas>
+    <cuota>
+        <dias>2</dias>
+        <crossfit>18</crossfit>
+        <cycling>15</cycling>
+        <natacion>13</natacion>
+        <zumba>15</zumba>
+        <step>16</step>
+        <pilates>13</pilates>
+    </cuota>
+    
+    <cuota>
+        <dias>3</dias>
+        <crossfit>24</crossfit>
+        <cycling>21</cycling>
+        <natacion>19</natacion>
+        <zumba>21</zumba>
+        <step></step>
+        <pilates>19</pilates>
+    </cuota>
+    
+    <cuota>
+        <dias>4</dias>
+        <crossfit>27</crossfit>
+        <cycling></cycling>
+        <natacion>22</natacion>
+        <zumba></zumba>
+        <step></step>
+        <pilates></pilates>
+    </cuota>
+    
+    <cuota>
+        <dias>5</dias>
+        <crossfit>31</crossfit>
+        <cycling></cycling>
+        <natacion>26</natacion>
+        <zumba></zumba>
+        <step></step>
+        <pilates></pilates>
+    </cuota>
+</cuotas>
+    
+    
