@@ -19,7 +19,7 @@
       <c:set var = "xmltext">
       <%@ include file="/WEB-INF/Horario.xml" %>
       </c:set>
-      <c:import url = "http://localhost:8080/PlayFitHeroku/Main/StyleXSL.xsl" var = "xslt"/>
+      <c:import url = "PlayFitHeroku/Main/StyleXSL.xsl" var = "xslt"/>
       <x:transform xml = "${xmltext}" xslt = "${xslt}"/>
       
       <br>
@@ -27,7 +27,7 @@
       <c:set var = "xmltext">
       <%@ include file="/WEB-INF/Cuotas.xml" %>
       </c:set>
-      <c:import url = "http://localhost:8080/PlayFitHeroku/Main/StyleXSLCuotas.xsl" var = "xslt"/>
+      <c:import url = "PlayFitHeroku/Main/StyleXSLCuotas.xsl" var = "xslt"/>
       <x:transform xml = "${xmltext}" xslt = "${xslt}"/>
       
       <jsp:include page="Main/Footer.jsp" />
